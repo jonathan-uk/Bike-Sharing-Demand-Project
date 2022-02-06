@@ -31,22 +31,23 @@ i will spend more time on feature creation, i would have added additional featur
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 |model|hpo1|hpo2|hpo3|score|
 |--|--|--|--|--|
-|initial|?|?|?|?|
-|add_features|?|?|?|?|
-|hpo|?|?|?|?|
+|initial|Defalt|default|default|1.31150|
+|add_features|default|Default|Default|1.40399|
+|hpo|?|?|?|1.31150|
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
 TODO: Replace the image below with your own.
 
-![model_train_score](https://user-images.githubusercontent.com/86266982/152699133-5777cc32-63fa-43ca-80b7-2898abca64ea.png)
+![image](https://user-images.githubusercontent.com/86266982/152699424-e968dbad-e94a-4c14-a59b-b646a0c07c57.png)
+
 
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 TODO: Replace the image below with your own.
 
-![model_test_score](https://user-images.githubusercontent.com/86266982/152699156-16b895fc-25fd-44db-a3af-cf588c2ae6e7.png)
+![image](https://user-images.githubusercontent.com/86266982/152699441-2d701d24-a643-4383-a0ca-b105cfc65f76.png)
 
 
 ## Summary
