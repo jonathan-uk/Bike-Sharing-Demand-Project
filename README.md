@@ -39,13 +39,15 @@ i will spend more time on feature creation, i would have added additional featur
 
 TODO: Replace the image below with your own.
 
-![model_train_score.png](img/model_train_score.png)
+![model_train_score](https://user-images.githubusercontent.com/86266982/152699133-5777cc32-63fa-43ca-80b7-2898abca64ea.png)
+
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 TODO: Replace the image below with your own.
 
-![model_test_score.png](img/model_test_score.png)
+![model_test_score](https://user-images.githubusercontent.com/86266982/152699156-16b895fc-25fd-44db-a3af-cf588c2ae6e7.png)
+
 
 ## Summary
 TODO: Add your explanation
