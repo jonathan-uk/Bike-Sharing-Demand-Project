@@ -33,7 +33,7 @@ i will spend more time on feature creation, i would have added additional featur
 |--|--|--|--|--|
 |initial|Defalt|default|default|1.31150|
 |add_features|default|Default|Default|1.40399|
-|hpo|?|?|?|1.31150|
+|hpo|NN epochs[10], activation:['relu', 'softrelu',n'tanh'], Layers:[[100],[1000],[200, 100],[300,200,100]]|?|?|1.31150|
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
