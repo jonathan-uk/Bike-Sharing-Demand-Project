@@ -47,7 +47,7 @@ TODO: Replace the image below with your own.
 
 TODO: Replace the image below with your own.
 
-![image](https://user-images.githubusercontent.com/86266982/152699441-2d701d24-a643-4383-a0ca-b105cfc65f76.png)
+![image](https://user-images.githubusercontent.com/86266982/152798054-e0226b13-0035-42f6-a4be-2290da2ee610.png)
 
 
 ## Summary
